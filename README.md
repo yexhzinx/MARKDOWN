@@ -58,6 +58,7 @@ HELLO WORLD<br>
  ## 링크(바로가기)
  [네이버](https://naver.com)  
 
+<a href="https://naver.com" target="_blank"> 새 탭 열고 이동</a>
 
 
 
